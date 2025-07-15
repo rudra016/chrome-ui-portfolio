@@ -1,3 +1,5 @@
+![chrome-ui-portfolio](https://socialify.git.ci/rudra016/chrome-ui-portfolio/image?font=Bitter&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
+
 # Chrome Portfolio
 
 A modern, responsive portfolio web application inspired by the Chrome browser UI, built with Next.js 14 (App Router) and TypeScript. This project is designed for developers and professionals who want to showcase their work, projects, skills, and online presence in a visually engaging, desktop-inspired format.
